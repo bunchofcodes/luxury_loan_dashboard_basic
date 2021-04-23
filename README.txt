@@ -12,7 +12,7 @@ https://maalghozi.shinyapps.io/luxury_loan_dashboard/
 
 Follow this step to open the dashboard on your local:
 1. Download the Code, and Extract
-
+https://github.com/bunchofcodes/luxury_loan_dashboard_basic
 2. Open one out of three (server.R, ui.R, or global.R)
 3. Click Run App 
 
